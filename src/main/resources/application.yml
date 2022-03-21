@@ -1,0 +1,3 @@
+server:
+  name: SingleTap
+  port: 9095
